@@ -1,5 +1,5 @@
 sftp anothermi@frs.sourceforge.net
 
-cd /home/frs/project/cakeby/cakeby
+cd /home/frs/project/cakeby/cakeby-tissot
 
 put <filename.zip>
