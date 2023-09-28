@@ -1,5 +1,8 @@
-sftp anothermi@frs.sourceforge.net
+sftp username@frs.sourceforge.net
 
 cd /home/frs/project/cakeby/cakeby-tissot
 
 put <filename.zip>
+
+===================================================
+scp path/to/file username@frs.sourceforge.net:/home/frs/project/romi-build/..
